@@ -52,11 +52,11 @@ CREATE TABLE NoteEntity (
 
 | Notes Home | Note Detail | Add/Edit Note |
 |:---:|:---:|:---:|
-| ![Notes Screen](screenshots/notes_screen.png) | ![Detail Screen](screenshots/detail_screen.png) | ![Add Screen](screenshots/add_screen.png) |
+| ![Notes Screen]() | ![Detail Screen]() | ![Add Screen]() |
 
 | Favorites | Profile | Edit Profile |
 |:---:|:---:|:---:|
-| ![Favorites Screen](screenshots/favorites_screen.png) | ![Profile Screen](screenshots/profile_screen.png) | ![Edit Profile](screenshots/edit_profile.png) |
+| ![Favorites Screen]() | ![Profile Screen]() | ![Edit Profile]() |
 
 ---
 
