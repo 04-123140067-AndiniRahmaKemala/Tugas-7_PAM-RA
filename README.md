@@ -2,6 +2,16 @@
 
 A powerful, offline-first notes management application built with Kotlin Multiplatform (KMP), featuring a modern Material 3 design and persistent local storage.
 
+## Dokumentasi Visual
+
+| Create Note |  Read & Edit Note | Delete | Delete Output |  Search Note |
+| :---: | :---: | :---: | :---: | :---: |
+|<img width="324" height="712" alt="Screenshot 2026-05-01 130530" src="https://github.com/user-attachments/assets/400ee8bd-4271-4238-a381-1cfdf28dbec1" /> | <img width="320" height="714" alt="Screenshot 2026-05-01 130724" src="https://github.com/user-attachments/assets/f87ba3ac-920f-4fa7-8819-cd88dca84f6f" /> | <img width="327" height="714" alt="Screenshot 2026-05-01 130545" src="https://github.com/user-attachments/assets/b71127ae-77b5-4902-a70f-fa3160457f88" /> | <img width="326" height="713" alt="Screenshot 2026-05-01 130602" src="https://github.com/user-attachments/assets/83401c59-c06b-4cec-8978-87551f6702cf" /> | <img width="323" height="715" alt="Screenshot 2026-05-01 130621" src="https://github.com/user-attachments/assets/709410d3-0007-432d-9156-d9e853e34935" /> |
+
+
+##  Video Demo
+Video demo fitur aplikasi dapat diakses melalui tautan berikut : https://youtube.com/shorts/elQ8uHpX1Aw?si=Vuo3DXu492FLlLeb 
+
 ## 🚀 Key Features
 
 ### 1. Local Persistence (SQLDelight)
